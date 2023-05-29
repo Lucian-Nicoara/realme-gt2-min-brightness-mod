@@ -1,7 +1,6 @@
-id=GT2RecQualityMod
-name=GT2RecQualityMod
-version=v1.1
+id=GT2MinBrightnessMod
+name=GT2MinBrightnessMod
+version=v1.0
 versionCode=1
 author=wizard8400
-description=Mod to improve recording quality of the Realime GT2
-updateJson=none
+description=Mod to change the minimum brightness for Realme GT2
